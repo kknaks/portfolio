@@ -69,4 +69,4 @@ key = input("키값을 입력 하세요 : ")
 epsg = input("epsgf를 입력 하세요 : ")
 
 geo = geocoding()
-pring(geo)
+print(geo)
